@@ -1,0 +1,116 @@
+                .header {
+                    background-color: rgb(243, 243, 243);
+                    height: 40px;
+                    justify-content: center;
+                }
+                
+                .name {
+                    color: white;
+                    font-size: large;
+                    font-weight: bold;
+                }
+                
+                .logo {
+                    padding-left: 3px;
+                    padding-right: 3px;
+                }
+                
+                .imgLogoHeader {
+                    height: 20px;
+                    width: 20px;
+                }
+                
+                .titulosResaltados {
+                    color: rgb(29, 4, 4);
+                    font-size: xx-large;
+                    font-weight: bold;
+                }
+                
+                .letraComunContenido {
+                    color: rgb(117, 115, 115);
+                    font-size: medium;
+                    justify-content: left;
+                }
+                
+                .alinear-izquierda {
+                    float: left;
+                }
+                
+                .alinear-derecha {
+                    float: right;
+                    justify-content: flex-end
+                }
+                
+                .titulosResaltadosCeleste {
+                    color: rgb(25, 135, 238);
+                    font-size: xx-large;
+                    font-weight: lighter;
+                }
+                
+                .imagenArriba {
+                    width: 100%;
+                    height: 300px;
+                    border-top-left-radius: 20px;
+                    border-top-right-radius: 20px;
+                }
+                
+                .imgCirculoPerfil {
+                    position: absolute;
+                    left: 0px;
+                    top: 230px;
+                    z-index: 2;
+                    margin: 2%;
+                }
+                
+                .content {
+                    padding-left: 15px;
+                    padding-right: 15px;
+                }
+                
+                .card {
+                    border: 1px solid rgb(40, 236, 82);
+                    border-radius: 20px;
+                    padding: 1em;
+                    margin: 0.5%;
+                }
+                
+                .cardHeader {
+                    border: 1px solid rgb(40, 236, 82);
+                    border-radius: 20px;
+                    margin: 0.5%;
+                }
+                
+                .infoData {
+                    padding: 16px;
+                    padding-top: 80px;
+                }
+                
+                .botonEditarFoto {
+                    position: absolute;
+                    left: 0px;
+                    top: 230px;
+                    z-index: 2;
+                    margin: 11%;
+                }
+                
+                .botonLogoInstitucion {
+                    padding-left: 3px;
+                    padding-right: 3px;
+                    width: 25%;
+                    height: 25%;
+                }
+                
+                .imgInstitucion {
+                    height: 50px;
+                    width: 50px;
+                }
+                
+                .cardProgress {
+                    padding-left: 200px;
+                    padding-right: 200px;
+                    margin: 0.5%;
+                }
+                
+                .imagenInstitucion2 {
+                    text-align: center;
+                }
