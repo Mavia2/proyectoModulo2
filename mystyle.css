@@ -72,6 +72,8 @@
                     padding: 2em;
                     margin: 0.5%;
                     box-shadow: 5px 5px 5px rgb(250, 237, 237);
+                    margin-top: 10px;
+                    margin-bottom: 10px;
                 }
                 
                 .cardHeader {
