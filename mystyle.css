@@ -52,19 +52,10 @@
                 .imagenArriba {
                     border-top-left-radius: 20px;
                     border-top-right-radius: 20px;
-                    position: absolute;
-                    width: 100%;
-                }
-                
-                .headerBackground {
-                    border-top-left-radius: 20px;
-                    border-top-right-radius: 20px;
-                    border-bottom-left-radius: 20px;
-                    border-bottom-right-radius: 20px;
                 }
                 
                 .imgPerfilContainer {
-                    margin-top: 0px;
+                    margin-top: -100px;
                     margin-left: 20px;
                     z-index: 2;
                     flex-direction: column;
