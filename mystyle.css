@@ -11,8 +11,8 @@
                 }
                 
                 .logo {
-                    padding-left: 3px;
-                    padding-right: 3px;
+                    padding-left: 5px;
+                    padding-right: 5px;
                 }
                 
                 .imgLogoHeader {
@@ -45,7 +45,7 @@
                 
                 .titulosResaltadosCeleste {
                     color: rgb(25, 135, 238);
-                    font-size: xx-large;
+                    font-size: x-large;
                     font-weight: lighter;
                 }
                 
@@ -67,18 +67,18 @@
                 }
                 
                 .card {
-                    border: 1px solid rgb(255, 222, 226);
+                    border: 1px solid rgb(252, 226, 218);
                     border-radius: 20px;
-                    padding: 1em;
+                    padding: 2em;
                     margin: 0.5%;
-                    box-shadow: 10px 5px 5px rgb(250, 237, 237)
+                    box-shadow: 5px 5px 5px rgb(250, 237, 237);
                 }
                 
                 .cardHeader {
                     border: 1px solid rgb(255, 222, 226);
                     border-radius: 20px;
                     margin: 0.5%;
-                    box-shadow: 10px 5px 5px rgb(250, 237, 237)
+                    box-shadow: 5px 5px 5px rgb(250, 237, 237)
                 }
                 
                 .infoData {
@@ -93,13 +93,12 @@
                 .botonLogoInstitucion {
                     padding-left: 3px;
                     padding-right: 3px;
-                    width: 25%;
-                    height: 25%;
+                    width: 150px;
                 }
                 
                 .imgInstitucion {
-                    height: 50px;
-                    width: 50px;
+                    width: 70px;
+                    object-fit: contain;
                 }
                 
                 .cardProgress {
